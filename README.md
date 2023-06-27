@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer with a passion for continuous learning and a drive for excellence.Innovative Software Engineer with 1+ years of experience in Software Development. Eager to bring expertise to solve new challenging problems. 
 
-• 1+ years of experience in Software Development including Analysis, Design, Development, Testing and Deployment of various applications in JavaScript and Python environments. 
+• 1.5+ years of experience in Software Development including Analysis, Design, Development, Testing and Deployment of various applications in JavaScript and Python environments. 
 
 • Expertise in Stacks like Python, JavaScript, MySQL, Postgres, Git, Linux, Docker, Fastapi, Django, Django Rest Framework(DRF), Reactjs, TypeScript, AWS, Jenkins, Sqlalchemy, SqlModel, Celery 
 
