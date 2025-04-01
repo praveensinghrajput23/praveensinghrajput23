@@ -12,10 +12,9 @@ Software Engineer with a passion for continuous learning and a drive for excelle
 
 • Worked for industry clients and have experience working with Proptech, Admin Dashboard and E-commerce.
 
-* 🌍  I'm based in New Delhi.*
-* ✉️  You can contact me at [ratinsingh23@gmail.com](mailto:ratinsingh23@gmail.com)* 
-* 🧠  I'm learning Kubernetes and Shell Scripting* 
-* 🤝  I'm open to collaborating on Open-Source Projects*
+* 🌍  I'm based in New Delhi.
+* ✉️  You can contact me at [ratinsingh23@gmail.com](mailto:ratinsingh23@gmail.com)
+* 🤝  I'm open to collaborating on Open-Source Projects
 
 ### Skills
 
